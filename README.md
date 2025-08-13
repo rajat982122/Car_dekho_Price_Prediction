@@ -37,3 +37,15 @@ It uses **Random Forest Regression** trained on real-world car data from **CarDe
 │ └── index.html # Main input form
 ├── static/ # CSS, JS files
 └── README.md # Project documentation
+
+
+---
+
+## How to Run
+Run application.py file,  
+copy the `http://127.0.0.1:5000/` and run it in browser.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
